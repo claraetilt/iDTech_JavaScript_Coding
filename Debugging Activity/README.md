@@ -1,1 +1,2 @@
 # Debugging Activity
+In this assigment, there is a website that is bugged by multiple challanges! You will go check point to check point, going into the code based off of your previous knowledge to make sure each button works. 

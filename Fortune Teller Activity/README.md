@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+Depending on the range of 0-10, the number you put in will get a fortune. 0-3 is a low fortune, 4-7 is an average fortune, and a 8-10 is a high fortune! If the number put is not in that range, then the program should not respond to it. 

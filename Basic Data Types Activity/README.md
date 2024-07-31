@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In  this assigment, you are going to be making a story similar to Mad Libs, creating data types to put in the blanks. Instead of writing all of it out within console.log, you will address the variables in the story. 
