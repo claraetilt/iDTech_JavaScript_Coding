@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+Similar to the last project, Pacman will be going back and forth across the page and turn around if a wall is touched. However, there are more advanced features. By touching the "Add Pacman", a Pacman will spawn. Touching the button "start game" will start the function, and the pacmans can now go up and down. 
